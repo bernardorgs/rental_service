@@ -1,5 +1,13 @@
 # Serviço de Locação
 
+#### Abrir a pasta da API
+
+Antes de rodar qualquer comando, navegue até a pasta `api` do projeto:
+
+```
+cd api
+```
+
 #### Instalar Dependências
 
 Para instalar todas as dependências, execute o comando abaixo:
